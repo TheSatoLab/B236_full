@@ -6,7 +6,7 @@ library(ComplexHeatmap)
 library(circlize)
 
 ### Change working directory
-dir <- "/Users/chainorato/Desktop/BANAL_project/240307_MSA_identity/"
+dir <- "~/Desktop/BANAL_project/240307_MSA_identity/"
 setwd(dir)
 
 gene_name.v <- c("ORF1ab","ORF1a","S","ORF3a","E","M","ORF6","ORF7a","ORF7b","ORF8","N","ORF10")
