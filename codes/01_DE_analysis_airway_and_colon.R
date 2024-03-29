@@ -18,7 +18,7 @@ library(RColorBrewer)
 library(cowplot)
 
 ### Change working directory
-dir <- "/Users/chainorato/Desktop/BANAL_project/230105_Airway_and_Colon/"
+dir <- "~/Desktop/BANAL_project/230105_Airway_and_Colon/"
 setwd(dir)
 
 ######################################## Analyze read counts with total viral reads ########################################
