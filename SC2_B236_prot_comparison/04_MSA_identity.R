@@ -1,4 +1,4 @@
-library(Biostrings)
+https://github.com/TheSatoLab/B236_full/tree/main/SC2_B236_prot_comparisonlibrary(Biostrings)
 library(dplyr)
 library(stringr)
 library(ggplot2)
